@@ -3,7 +3,7 @@ Simulate Suction Arm Manipulator to Pickup Daily Object
 
 ![alt text](img/simulation.gif)
 
-[Open Full Video](https://youtube.com)
+[Open Full Video](https://youtu.be/cmVsOR96NVk)
 
 ## Dependencies
 * [VREP PRO EDU 3.6.2](http://coppeliarobotics.com/ubuntuVersions.html)
