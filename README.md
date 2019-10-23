@@ -1,5 +1,5 @@
 # Suction Arm Manipulator Robot
-Simulate Suction Arm Manipulator to Pickup Daily Object
+Simulate the Suction Arm Manipulator Robot to Pickup Daily Object inspired by Amazon Robotics Challenge
 
 ![alt text](img/simulation.gif)
 
