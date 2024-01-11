@@ -1,5 +1,5 @@
 # Suction Arm Manipulator Robot
-Simulate the Suction Arm Manipulator Robot to Pickup Daily Object inspired by Amazon Robotics Challenge
+Simulate the Suction Arm Manipulator Robot to pick up daily objects inspired by the Amazon Robotics Challenge.
 
 ![alt text](img/simulation.gif)
 
@@ -11,9 +11,9 @@ Simulate the Suction Arm Manipulator Robot to Pickup Daily Object inspired by Am
 
 ## How to Run
 
-1. In terminal run `roscore`.
-2. Open `SuctionRobot.ttt` in [simulation](https://github.com/reshalfahsi/arm-suction-sim/tree/master/simulation) folder using VREP and run the simulation.
-3. In other terminal run the `RobotAI.sh` inside the [simulation](https://github.com/reshalfahsi/arm-suction-sim/tree/master/simulation) folder.
+1. In the terminal run `roscore`.
+2. Open the `SuctionRobot.ttt` in [simulation](https://github.com/reshalfahsi/arm-suction-sim/tree/master/simulation) folder using VREP and run the simulation.
+3. In the other terminal run the `RobotAI.sh` inside the [simulation](https://github.com/reshalfahsi/arm-suction-sim/tree/master/simulation) folder.
 4. Enjoy!
 
 ## Contributor
